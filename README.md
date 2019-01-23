@@ -1,4 +1,3 @@
-# MyTrial
-Hi My first trial of GitHub!
-
+# Projects
 Great time of learning here.
+
