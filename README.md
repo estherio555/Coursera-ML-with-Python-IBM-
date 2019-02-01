@@ -5,12 +5,17 @@ I used the training set to build various model, then use the test set to report 
 I used the following algorithm:
 
 K Nearest Neighbor(KNN)
+
 Decision Tree
+
 Support Vector Machine
+
 Logistic Regression
 
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
 Jaccard index
+
 F1-score
+
 LogLoss
