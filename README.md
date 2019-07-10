@@ -1,4 +1,4 @@
-# Projects
+# Projects - Predicting Loan payment Status
 In this project, I completed a notebook where I built a classifier to predict whether a loan case will be paid off or not.
 
 I used the training set to build various model, then use the test set to report the accuracy of the model.
